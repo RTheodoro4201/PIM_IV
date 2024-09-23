@@ -1,0 +1,56 @@
+@model IEnumerable<Ingrediente>
+
+@{
+    ViewData["Title"] = "Lista de Ingredientes";
+}
+
+<h1>@ViewData["Title"]</h1>
+<br/>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Adicionar novo ingrediente</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().UnidadeMedida)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().QuantidadeEstoque)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ingrediente in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => ingrediente.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => ingrediente.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => ingrediente.UnidadeMedida)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => ingrediente.QuantidadeEstoque)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@ingrediente.Id" class="btn btn-warning">Editar</a> 
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@ingrediente.Id" class="btn btn-danger">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

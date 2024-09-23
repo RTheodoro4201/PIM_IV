@@ -1,0 +1,273 @@
+/home/tofanini/Documentos/VintePila/Precificacao/bin/Debug/net8.0/appsettings.Development.json
+/home/tofanini/Documentos/VintePila/Precificacao/bin/Debug/net8.0/appsettings.json
+/home/tofanini/Documentos/VintePila/Precificacao/bin/Debug/net8.0/Precificacao.staticwebassets.runtime.json
+/home/tofanini/Documentos/VintePila/Precificacao/bin/Debug/net8.0/Precificacao
+/home/tofanini/Documentos/VintePila/Precificacao/bin/Debug/net8.0/Precificacao.deps.json
+/home/tofanini/Documentos/VintePila/Precificacao/bin/Debug/net8.0/Precificacao.runtimeconfig.json
+/home/tofanini/Documentos/VintePila/Precificacao/bin/Debug/net8.0/Precificacao.dll
+/home/tofanini/Documentos/VintePila/Precificacao/bin/Debug/net8.0/Precificacao.pdb
+/home/tofanini/Documentos/VintePila/Precificacao/bin/Debug/net8.0/Dapper.dll
+/home/tofanini/Documentos/VintePila/Precificacao/bin/Debug/net8.0/MySqlConnector.dll
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/Precificacao.csproj.AssemblyReference.cache
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/Precificacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/Precificacao.AssemblyInfoInputs.cache
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/Precificacao.AssemblyInfo.cs
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/Precificacao.csproj.CoreCompileInputs.cache
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/Precificacao.MvcApplicationPartsAssemblyInfo.cache
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/Precificacao.RazorAssemblyInfo.cache
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/Precificacao.RazorAssemblyInfo.cs
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/staticwebassets.build.json
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/staticwebassets.development.json
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/staticwebassets/msbuild.Precificacao.Microsoft.AspNetCore.StaticWebAssets.props
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/staticwebassets/msbuild.build.Precificacao.props
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Precificacao.props
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Precificacao.props
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/staticwebassets.pack.json
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/scopedcss/bundle/Precificacao.styles.css
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/scopedcss/projectbundle/Precificacao.bundle.scp.css
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/Precificacao.csproj.CopyComplete
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/Precificacao.dll
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/refint/Precificacao.dll
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/Precificacao.pdb
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/Precificacao.genruntimeconfig.cache
+/home/tofanini/Documentos/VintePila/Precificacao/obj/Debug/net8.0/ref/Precificacao.dll
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/Precificacao.csproj.AssemblyReference.cache
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/Precificacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/Precificacao.AssemblyInfoInputs.cache
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/Precificacao.AssemblyInfo.cs
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/Precificacao.csproj.CoreCompileInputs.cache
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/Precificacao.MvcApplicationPartsAssemblyInfo.cache
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/Precificacao.RazorAssemblyInfo.cache
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/Precificacao.RazorAssemblyInfo.cs
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/Precificacao.dll
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/refint/Precificacao.dll
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/Precificacao.pdb
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/bin/Debug/net8.0/appsettings.Development.json
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/bin/Debug/net8.0/appsettings.json
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/bin/Debug/net8.0/Precificacao.staticwebassets.runtime.json
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/bin/Debug/net8.0/Precificacao
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/bin/Debug/net8.0/Precificacao.deps.json
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/bin/Debug/net8.0/Precificacao.runtimeconfig.json
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/bin/Debug/net8.0/Precificacao.dll
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/bin/Debug/net8.0/Precificacao.pdb
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/bin/Debug/net8.0/Dapper.dll
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/bin/Debug/net8.0/MySqlConnector.dll
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/staticwebassets.build.json
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/staticwebassets.development.json
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/staticwebassets/msbuild.Precificacao.Microsoft.AspNetCore.StaticWebAssets.props
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/staticwebassets/msbuild.build.Precificacao.props
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Precificacao.props
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Precificacao.props
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/staticwebassets.pack.json
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/scopedcss/bundle/Precificacao.styles.css
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/scopedcss/projectbundle/Precificacao.bundle.scp.css
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/Precificacao.csproj.CopyComplete
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/Precificacao.genruntimeconfig.cache
+/home/tofanini/Documentos/Aulas2024-2/MVC-Completo/PrecificacaoIngrediente/obj/Debug/net8.0/ref/Precificacao.dll
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.RazorAssemblyInfo.cache
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.RazorAssemblyInfo.cs
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.dll
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\refint\Precificacao.dll
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.pdb
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.staticwebassets.runtime.json
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.exe
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.deps.json
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.runtimeconfig.json
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.dll
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.pdb
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\bin\Debug\net8.0\Dapper.dll
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets\msbuild.Precificacao.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets\msbuild.build.Precificacao.props
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Precificacao.props
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Precificacao.props
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\scopedcss\bundle\Precificacao.styles.css
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\scopedcss\projectbundle\Precificacao.bundle.scp.css
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\Precific.EDC7F24E.Up2Date
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\PrecificacaoIngrediente\obj\Debug\net8.0\ref\Precificacao.dll
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\bin\Debug\net8.0\appsettings.json
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.staticwebassets.runtime.json
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.exe
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.deps.json
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.runtimeconfig.json
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.dll
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.pdb
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\bin\Debug\net8.0\Dapper.dll
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.RazorAssemblyInfo.cache
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.RazorAssemblyInfo.cs
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets\msbuild.Precificacao.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets\msbuild.build.Precificacao.props
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Precificacao.props
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Precificacao.props
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\scopedcss\bundle\Precificacao.styles.css
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\scopedcss\projectbundle\Precificacao.bundle.scp.css
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.csproj.CopyComplete
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.dll
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\refint\Precificacao.dll
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.pdb
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.genruntimeconfig.cache
+C:\Users\rodri\Desktop\Projetos\POO II\PrecificacaoIngrediente\obj\Debug\net8.0\ref\Precificacao.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\appsettings.json
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.staticwebassets.runtime.json
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.exe
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.deps.json
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.runtimeconfig.json
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Precificacao.pdb
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Dapper.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.RazorAssemblyInfo.cache
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.RazorAssemblyInfo.cs
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.sourcelink.json
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets\msbuild.Precificacao.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets\msbuild.build.Precificacao.props
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Precificacao.props
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Precificacao.props
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\scopedcss\bundle\Precificacao.styles.css
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\scopedcss\projectbundle\Precificacao.bundle.scp.css
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.csproj.CopyComplete
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\refint\Precificacao.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.pdb
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\Precificacao.genruntimeconfig.cache
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\obj\Debug\net8.0\ref\Precificacao.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodri\Desktop\Projetos\Lab POO - 15-03\PrecificacaoIngrediente\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\appsettings.json
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Precificacao.staticwebassets.runtime.json
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Precificacao.exe
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Precificacao.deps.json
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Precificacao.runtimeconfig.json
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Precificacao.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Precificacao.pdb
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Dapper.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\Precificacao.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\Precificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\Precificacao.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\Precificacao.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\Precificacao.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\Precificacao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\Precificacao.RazorAssemblyInfo.cache
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\Precificacao.RazorAssemblyInfo.cs
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\staticwebassets\msbuild.Precificacao.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\staticwebassets\msbuild.build.Precificacao.props
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Precificacao.props
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Precificacao.props
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\scopedcss\bundle\Precificacao.styles.css
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\scopedcss\projectbundle\Precificacao.bundle.scp.css
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\Precificacao.csproj.CopyComplete
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\Precificacao.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\refint\Precificacao.dll
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\Precificacao.pdb
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\Precificacao.genruntimeconfig.cache
+C:\Users\rodri\Desktop\Projetos\C#\PIM IV\obj\Debug\net8.0\ref\Precificacao.dll

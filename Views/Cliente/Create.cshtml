@@ -1,0 +1,38 @@
+@model Cliente
+@{
+    ViewData["Title"] = "Incluir Cliente";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Nome" class="control-label"></label>
+        <input asp-for="Nome" class="form-control" />
+        <span asp-validation-for="Nome" class="text-danger"></span>
+    </div>
+    <br/>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Documento)
+        <label>(Digite apenas números)</label>
+        <input asp-for="Documento" class="form-control" />
+        <span asp-validation-for="Documento" class="text-danger"></span>
+    </div>
+    <div>
+        @Html.LabelFor(m => m.TipoDocumento)
+        <label>:</label>
+        @Html.RadioButtonFor(m => m.TipoDocumento, TipoDocumento.CPF) CPF
+        @Html.RadioButtonFor(m => m.TipoDocumento, TipoDocumento.CNPJ) CNPJ
+    </div>
+    <br/>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Telefone)
+        <label>(Digite apenas números)</label>
+        <input asp-for="Telefone" class="form-control" />
+        <span asp-validation-for="Telefone" class="text-danger"></span>
+    </div>
+
+    <br/><br/>
+    <button type="submit" class="btn btn-primary">Salvar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

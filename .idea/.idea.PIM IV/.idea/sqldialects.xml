@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/17b2c879-f5e6-4dd6-ae6f-c686282e0f0d/console.sql" dialect="TSQL" />
+    <file url="file://$USER_HOME$/Downloads/CadastroDbV2.sql" dialect="TSQL" />
+    <file url="PROJECT" dialect="TSQL" />
+  </component>
+</project>

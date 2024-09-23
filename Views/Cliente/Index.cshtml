@@ -1,0 +1,63 @@
+@model IEnumerable<Cliente>
+
+@{
+    ViewData["Title"] = "Lista de Clientes";
+}
+
+<h1>@ViewData["Title"]</h1>
+<br/>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Adicionar novo cliente</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Documento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TipoDocumento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Telefone)
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => cliente.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => cliente.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => cliente.Documento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => cliente.TipoDocumento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => cliente.Telefone)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@cliente.Id" class="btn btn-warning">Editar</a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@cliente.Id" class="btn btn-danger">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

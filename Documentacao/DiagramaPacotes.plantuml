@@ -1,0 +1,61 @@
+@startuml "Diagrama de Pacotes - MVC"
+
+package "Models" as M {
+    class Ingrediente {
+        +Id: int
+        +Nome: String 
+        +UnidadeMedida: String
+    }
+}
+
+package "Views" as V {
+    package "Ingrediente" as IV #AliceBlue {
+        class Index
+        class Create
+        class Delete
+        class Edit
+    }
+}
+
+package "Controllers" as C {
+    class IngredienteController {
+	-_ingredienteRepository: IRepository<Ingrediente>
+        +IngredienteController(IRepository<Ingrediente>)
+        +Index() : Task<IActionResult>
+        +Create() : Task<IActionResult>
+        +<<HttpPost>> Create(Ingrediente) : Task<IActionResult>
+        +Edit(int) : Task<IActionResult>
+        +<<HttpPost>> Edit(int, Ingrediente) : Task<IActionResult>
+        +Delete(int) : Task<IActionResult>
+        +<<HttpPost>> Delete(int) : Task<IActionResult>
+    }
+}
+
+package "Repositories" as R {
+    
+    interface IRepository<T> {
+        +GetAll() : Task<IEnumerable<T>>
+        +GetById(int id) : Task<T?>
+        +Add(T entity) : Task
+        +Update(T entity) : Task
+        +Delete(int id) : Task
+    }
+
+    class IngredienteRepository {
+        -_dbConnection : IDbConnection
+        +GetAll() : Task<IEnumerable<Ingrediente>>
+        +GetById(int id) : Task<Ingrediente?>
+        +Add(Ingrediente) : Task
+        +Update(Ingrediente) : Task
+        +Delete(int) : Task
+    }
+
+    IRepository <|-- IngredienteRepository
+}
+
+IV --> Ingrediente
+IngredienteController --> Ingrediente
+IngredienteRepository --> Ingrediente
+IngredienteController .. IV : "Dependência indireta"
+
+@enduml

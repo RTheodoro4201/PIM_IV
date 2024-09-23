@@ -1,0 +1,70 @@
+@model IEnumerable<Compra>
+
+@{
+    ViewData["Title"] = "Lista de Compras";
+}
+
+<h1>@ViewData["Title"]</h1>
+<br />
+<p>
+    <a asp-action="Create" class="btn btn-primary">Adicionar nova compra</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().IngredienteId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().IngredienteNome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Quantidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Preco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Data)
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var compra in Model)
+
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => compra.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => compra.IngredienteId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => compra.IngredienteNome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => compra.Quantidade)
+                </td>
+                <td>
+                    R$@Html.DisplayFor(modelItem => compra.Preco)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => compra.Data)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@compra.Id" class="btn btn-warning">Editar</a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@compra.Id" class="btn btn-danger">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -17,10 +17,10 @@
                 @Html.DisplayNameFor(model => model.First().Id)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.First().Nome)
+                @Html.DisplayNameFor(model => model.First().NomeCompleto)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.First().Cargo)
+                @Html.DisplayNameFor(model => model.First().Funcao)
             </th>
             <th></th>
             <th></th>
@@ -34,10 +34,10 @@
                     @Html.DisplayFor(modelItem => funcionario.Id)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => funcionario.Nome)
+                    @Html.DisplayFor(modelItem => funcionario.NomeCompleto)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => funcionario.Cargo)
+                    @Html.DisplayFor(modelItem => funcionario.Funcao)
                 </td>
                 <td>
                     <a asp-action="Edit" asp-route-id="@funcionario.Id" class="btn btn-warning">Editar</a>

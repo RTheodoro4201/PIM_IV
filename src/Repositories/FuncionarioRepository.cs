@@ -24,13 +24,13 @@ public class FuncionarioRepository : IRepository<Funcionario>
 
     public async Task Add(Funcionario entity)
     {
-        var query = "INSERT INTO funcionarios (nome, cargo) VALUES (@Nome, @Cargo)";
+        var query = "INSERT INTO funcionarios (nomeCompleto, cargo) VALUES (@Nome, @Cargo)";
         await _dbConnection.ExecuteAsync(query, entity);
     }
 
     public async Task Update(Funcionario entity)
     {
-        var query = "UPDATE funcionarios SET nome = @Nome, cargo = @Cargo WHERE id = @Id";
+        var query = "UPDATE funcionarios SET nomeCompleto = @Nome, cargo = @Cargo WHERE id = @Id";
         await _dbConnection.ExecuteAsync(query, entity);
     }
 

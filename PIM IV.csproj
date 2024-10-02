@@ -9,11 +9,45 @@
   <ItemGroup>
     <PackageReference Include="Dapper" Version="2.1.35" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.0-preview1.24240.8" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.5" />
     <PackageReference Include="MySqlConnector" Version="2.3.7" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Abstract\" />
+    <Folder Include="src\Abstract\" />
+    <Folder Include="src\Enum\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\Cliente\Create.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Cliente\Delete.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Cliente\Edit.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Cliente\Index.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Compra\Create.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Compra\Delete.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Compra\Edit.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Compra\Index.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Shared\Error.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Shared\_Layout.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\_ViewImports.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\_ViewStart.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <AdditionalFiles Include="Views\Cliente\Create.cshtml" />
+    <AdditionalFiles Include="Views\Cliente\Delete.cshtml" />
+    <AdditionalFiles Include="Views\Cliente\Edit.cshtml" />
+    <AdditionalFiles Include="Views\Cliente\Index.cshtml" />
+    <AdditionalFiles Include="Views\Compra\Create.cshtml" />
+    <AdditionalFiles Include="Views\Compra\Delete.cshtml" />
+    <AdditionalFiles Include="Views\Compra\Edit.cshtml" />
+    <AdditionalFiles Include="Views\Compra\Index.cshtml" />
+    <AdditionalFiles Include="Views\Shared\Error.cshtml" />
+    <AdditionalFiles Include="Views\Shared\_Layout.cshtml" />
+    <AdditionalFiles Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <AdditionalFiles Include="Views\_ViewImports.cshtml" />
+    <AdditionalFiles Include="Views\_ViewStart.cshtml" />
   </ItemGroup>
 
 </Project>

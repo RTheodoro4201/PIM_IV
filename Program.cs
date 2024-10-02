@@ -10,6 +10,7 @@ string connectionString = @"Server=RTHEODORO\LOCALHOST;Database=PIM_IV;user='use
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IDbConnection>(sp => new SqlConnection(connectionString));
 builder.Services.AddScoped<IRepository<Cliente>, ClienteRepository>();
+builder.Services.AddScoped<IRepository<Funcionario>, FuncionarioRepository>();
 builder.Services.AddScoped<IRepository<Compra>, CompraRepository>();
 
 

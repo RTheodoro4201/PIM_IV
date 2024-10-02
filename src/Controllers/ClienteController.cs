@@ -10,11 +10,6 @@ public class ClienteController(IRepository<Cliente> clienteRepository) : Control
     public async Task<IActionResult> Index()
     {
         var clientes = await clienteRepository.GetAll();
-        Console.WriteLine(clientes.Count());
-        foreach (var cliente in clientes)
-        {
-            Console.WriteLine($"Id: {cliente.Id}, Nome: {cliente.Nome}, TipoDocumento: {cliente.TipoDocumento}");
-        }
         return View(clientes);
     }
 

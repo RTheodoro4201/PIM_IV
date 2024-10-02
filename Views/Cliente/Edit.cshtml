@@ -17,7 +17,8 @@
         </div>
         <br/>
         <div class="form-group">
-            <label asp-for="Documento" class="control-label"></label>
+            @Html.LabelFor(m => m.Documento)
+            <label asp-for="Documento" class="form-control">(Digite apenas números)</label>
             <input asp-for="Documento" class="form-control" />
             <span asp-validation-for="Documento" class="text-danger"></span>
         </div>
@@ -29,7 +30,8 @@
         </div>
         <br/>
         <div class="form-group">
-            <label asp-for="Telefone" class="control-label"></label>
+            @Html.LabelFor(m => m.Telefone)
+            <label asp-for="Telefone" class="form-control">(Digite apenas números)</label>
             <input asp-for="Telefone" class="form-control" />
             <span asp-validation-for="Telefone" clss="text-danger"></span>
         </div>

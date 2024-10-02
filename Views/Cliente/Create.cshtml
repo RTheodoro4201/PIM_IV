@@ -21,8 +21,8 @@
     <div>
         @Html.LabelFor(m => m.TipoDocumento)
         <label>:</label>
-        @Html.RadioButtonFor(m => m.TipoDocumento, TipoDocumento.CPF) CPF
-        @Html.RadioButtonFor(m => m.TipoDocumento, TipoDocumento.CNPJ) CNPJ
+        @Html.RadioButtonFor(m => m.TipoDocumento, "CPF") CPF
+        @Html.RadioButtonFor(m => m.TipoDocumento, "CNPJ") CNPJ
     </div>
     <br/>
     <div class="form-group">

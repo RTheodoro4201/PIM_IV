@@ -19,10 +19,10 @@
         <span asp-validation-for="Documento" class="text-danger"></span>
     </div>
     <div>
-        @Html.LabelFor(m => m.TipoDocumento)
-        <label>:</label>
-        @Html.RadioButtonFor(m => m.TipoDocumento, TipoDocumento.CPF) CPF
-        @Html.RadioButtonFor(m => m.TipoDocumento, TipoDocumento.CNPJ) CNPJ
+        <label asp-for="TipoDocumento" class="control-label">Tipo de Documento:</label>
+        @Html.RadioButtonFor(m => m.TipoDocumento, "CPF") CPF
+        @Html.RadioButtonFor(m => m.TipoDocumento, "CNPJ") CNPJ
+        <span asp-validation-for="TipoDocumento" class="text-danger"></span>
     </div>
     <br/>
     <div class="form-group">

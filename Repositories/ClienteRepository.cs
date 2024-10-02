@@ -24,13 +24,13 @@ public class ClienteRepository : IRepository<Cliente>
 
     public async Task Add(Cliente entity)
     {
-        var query = "INSERT INTO clientes (nome, documento, tipo_documento, telefone) VALUES (@Nome, @Documento, @TipoDocumento, @Telefone)";
+        var query = "INSERT INTO clientes (nome, documento, tipoDocumento, telefone) VALUES (@Nome, @Documento, @TipoDocumento, @Telefone)";
         await _dbConnection.ExecuteAsync(query, entity);
     }
 
     public async Task Update(Cliente entity)
     {
-        var query = "UPDATE clientes SET nome = @Nome, documento = @Documento, tipo_documento = @TipoDocumento, telefone = @Telefone WHERE id = @Id";
+        var query = "UPDATE clientes SET nome = @Nome, documento = @Documento, tipoDocumento = @TipoDocumento, telefone = @Telefone WHERE id = @Id";
         await _dbConnection.ExecuteAsync(query, entity);
     }
 
